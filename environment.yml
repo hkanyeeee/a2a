@@ -1,0 +1,12 @@
+name: a2a
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - openai
+    - langchain
+    - pytest
+    - rich
+    - python-dotenv 
