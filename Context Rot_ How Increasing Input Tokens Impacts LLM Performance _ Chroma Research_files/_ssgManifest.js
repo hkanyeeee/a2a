@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcontext-rot","\u002Fembedding-adapters","\u002Fevaluating-chunking","\u002Fgenerative-benchmarking"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
